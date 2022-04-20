@@ -24,3 +24,10 @@ console.log(parseInt(Math.random(i)*20));
 }
 
 // se llega al objetivo de una manera no convencional
+
+// Forma correcta 
+
+for (let i = 0; i <= 10; i++) {
+    console.log(Math.round(Math.random()*20));
+}
+
