@@ -10,6 +10,7 @@ console.log(i)
 let c = [];
 
 
-for( let i = 0; i < c.length; i++){
-    console.log(c);
+for( let t = 0; t <= 20; t++){
+    c.push(t);
 }
+console.log(c);
