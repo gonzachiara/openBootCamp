@@ -3,10 +3,10 @@ class Figura {
         this._color = _color;
     }
     get getColor() {
-        return "Mi figura es de color " + this._color;
+        return this._color;
     }
-    set setColor(n) {
-        this._color = n
+    set setColor(_color) {
+        this._color = setColor
     }
 }
 
@@ -14,7 +14,7 @@ const Figurita = new Figura("blue");
 Figurita._color
 console.log(Figurita._color)
 
-Figurita._color = 
+Figurita._color = "yellow"
 Figurita._color
 console.log(Figurita._color)
 
