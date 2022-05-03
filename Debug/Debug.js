@@ -8,8 +8,8 @@
 
 // Análisis del código tras encontrar un error.
 
-// Ejecución paso a paso. X
+// Ejecución paso a paso. 
 
-// La eficiencia de la ejecución del código. X
+// La eficiencia de la ejecución del código. 
 
-// Las tres primeras respuestas son correctas
+// Las tres primeras respuestas son correctas X
